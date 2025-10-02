@@ -1,1 +1,1 @@
-wmic /namespace:\\root\securitycenter2 path antivirusproduct get displayName, productState, pathToSignedProductExe
+powershell "Get-CimInstance -Namespace root/SecurityCenter2 -ClassName antivirusproduct"
