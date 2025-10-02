@@ -1,1 +1,1 @@
-sc query | findstr /i "antivirus"
+wmic /namespace:\\root\securitycenter2 path antivirusproduct get displayName, productState, pathToSignedProductExe
