@@ -1,31 +1,64 @@
 --- Command Execution Report ---
-Run Time: Thu, 02 Oct 2025 05:26:03 PDT
+Run Time: Thu, 02 Oct 2025 05:40:36 PDT
 Source URL: https://raw.githubusercontent.com/butterscotch6969/serving_url/refs/heads/main/readme.txt
 
-Command: ipconfig
+Command: systeminfo
 Output:
---- Command: ipconfig ---
+--- Command: systeminfo ---
 
-Windows IP Configuration
-
-
-Unknown adapter Local Area Connection:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Ethernet adapter Ethernet1:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Ethernet adapter Ethernet0:
-
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::86c8:3224:9e97:6d20%15
-   IPv4 Address. . . . . . . . . . . : 192.168.80.190
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.80.1
+Host Name:                 WINDOWS11
+OS Name:                   Microsoft Windows 11 Pro
+OS Version:                10.0.22631 N/A Build 22631
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          windows
+Registered Organization:   
+Product ID:                00330-80000-00000-AA127
+Original Install Date:     9/10/2025, 11:14:49 AM
+System Boot Time:          10/1/2025, 10:31:49 PM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware20,1
+System Type:               x64-based PC
+Processor(s):              2 Processor(s) Installed.
+                           [01]: AMD64 Family 23 Model 113 Stepping 0 AuthenticAMD ~3593 Mhz
+                           [02]: AMD64 Family 23 Model 113 Stepping 0 AuthenticAMD ~3593 Mhz
+BIOS Version:              VMware, Inc. VMW201.00V.20648489.B64.2210180829, 10/18/2022
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     6,143 MB
+Available Physical Memory: 1,966 MB
+Virtual Memory: Max Size:  24,575 MB
+Virtual Memory: Available: 760 MB
+Virtual Memory: In Use:    23,815 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\WINDOWS11
+Hotfix(s):                 5 Hotfix(s) Installed.
+                           [01]: KB5064403
+                           [02]: KB5027397
+                           [03]: KB5041655
+                           [04]: KB5065431
+                           [05]: KB5064743
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.80.1
+                                 IP address(es)
+                                 [01]: 192.168.80.190
+                                 [02]: fe80::86c8:3224:9e97:6d20
+                           [02]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet1
+                                 Status:          Media disconnected
+                           [03]: TAP-Windows Adapter V9
+                                 Connection Name: Local Area Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
 
 
 
