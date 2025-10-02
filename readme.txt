@@ -1,1 +1,3 @@
+whoami
 ipconfig
+systeminfo
