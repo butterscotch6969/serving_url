@@ -1,3 +1,1 @@
-whoami
-ipconfig
 systeminfo
