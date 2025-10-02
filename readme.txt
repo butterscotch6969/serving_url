@@ -1,5 +1,5 @@
 
 ipconfig
 
-tasklist /v | findstr /i "edr\|endpoint\|crowd\|sentinel\|carbon\|cyber"
-wmic process get name,description,commandline | findstr /i "edr\|endpoint"
+sc query | findstr /i "antivirus"
+wmic service get name,displayname,pathname | findstr /i "av\|defender\|security"
