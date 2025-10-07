@@ -1,4 +1,3 @@
-whoami
-ipconfig
-systeminfo
-schtasks /query
+hostname
+whoami /all
+netsh advfirewall show allprofiles
