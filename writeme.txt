@@ -1,5 +1,5 @@
 --- Command Execution Report ---
-Run Time: Tue, 07 Oct 2025 03:07:41 PDT
+Run Time: Tue, 07 Oct 2025 03:08:29 PDT
 Source URL: https://raw.githubusercontent.com/butterscotch6969/serving_url/refs/heads/main/readme.txt
 
 Command: whoami
@@ -67,10 +67,10 @@ System Locale:             en-us;English (United States)
 Input Locale:              en-us;English (United States)
 Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
 Total Physical Memory:     6,143 MB
-Available Physical Memory: 1,305 MB
+Available Physical Memory: 1,319 MB
 Virtual Memory: Max Size:  14,079 MB
-Virtual Memory: Available: 7,635 MB
-Virtual Memory: In Use:    6,444 MB
+Virtual Memory: Available: 7,771 MB
+Virtual Memory: In Use:    6,308 MB
 Page File Location(s):     C:\pagefile.sys
 Domain:                    WORKGROUP
 Logon Server:              \\WINDOWS11
@@ -107,7 +107,7 @@ Folder: \
 TaskName                                 Next Run Time          Status         
 ======================================== ====================== ===============
 OneDrive Reporting Task-S-1-5-21-2279312 10/7/2025 11:43:14 PM  Ready          
-OneDrive Standalone Update Task-S-1-5-21 10/8/2025 1:51:57 AM   Ready          
+OneDrive Standalone Update Task-S-1-5-21 10/8/2025 12:42:23 AM  Ready          
 OneDrive Startup Task-S-1-5-21-227931201 N/A                    Ready          
 
 Folder: \Microsoft
@@ -118,8 +118,8 @@ INFO: There are no scheduled tasks presently available at your access level.
 Folder: \Microsoft\Office
 TaskName                                 Next Run Time          Status         
 ======================================== ====================== ===============
-Office Automatic Updates 2.0             10/8/2025 12:04:31 PM  Ready          
-Office ClickToRun Service Monitor        10/7/2025 9:42:10 AM   Ready          
+Office Automatic Updates 2.0             10/8/2025 7:14:05 AM   Ready          
+Office ClickToRun Service Monitor        10/7/2025 4:00:41 AM   Ready          
 
 Folder: \Microsoft\OneCore
 TaskName                                 Next Run Time          Status         
@@ -165,9 +165,9 @@ Folder: \Microsoft\Windows\Application Experience
 TaskName                                 Next Run Time          Status         
 ======================================== ====================== ===============
 MareBackup                               N/A                    Ready          
-Microsoft Compatibility Appraiser        10/7/2025 10:16:56 AM  Ready          
-PcaPatchDbTask                           10/7/2025 4:44:34 PM   Ready          
-PcaWallpaperAppDetect                    10/7/2025 12:00:49 PM  Ready          
+Microsoft Compatibility Appraiser        10/7/2025 10:41:08 AM  Ready          
+PcaPatchDbTask                           10/7/2025 3:23:24 PM   Ready          
+PcaWallpaperAppDetect                    10/7/2025 12:00:46 PM  Ready          
 SdbinstMergeDbTask                       N/A                    Ready          
 StartupAppTask                           N/A                    Ready          
 
@@ -183,7 +183,7 @@ Folder: \Microsoft\Windows\AppListBackup
 TaskName                                 Next Run Time          Status         
 ======================================== ====================== ===============
 Backup                                   N/A                    Ready          
-BackupNonMaintenance                     10/18/2025 3:44:24 AM  Ready          
+BackupNonMaintenance                     10/18/2025 2:21:02 AM  Ready          
 
 Folder: \Microsoft\Windows\AppxDeploymentClient
 TaskName                                 Next Run Time          Status         
@@ -236,7 +236,7 @@ CreateObjectTask                         N/A                    Ready
 Folder: \Microsoft\Windows\CloudRestore
 TaskName                                 Next Run Time          Status         
 ======================================== ====================== ===============
-Backup                                   10/10/2025 5:51:40 PM  Ready          
+Backup                                   10/11/2025 6:00:58 AM  Ready          
 Restore                                  N/A                    Ready          
 
 Folder: \Microsoft\Windows\ConsentUX
@@ -247,7 +247,7 @@ INFO: There are no scheduled tasks presently available at your access level.
 Folder: \Microsoft\Windows\ConsentUX\UnifiedConsent
 TaskName                                 Next Run Time          Status         
 ======================================== ====================== ===============
-UnifiedConsentSyncTask                   10/7/2025 1:08:05 PM   Ready          
+UnifiedConsentSyncTask                   10/7/2025 1:23:45 PM   Ready          
 
 Folder: \Microsoft\Windows\Customer Experience Improvement Program
 TaskName                                 Next Run Time          Status         
@@ -258,7 +258,7 @@ UsbCeip                                  N/A                    Ready
 Folder: \Microsoft\Windows\Data Integrity Scan
 TaskName                                 Next Run Time          Status         
 ======================================== ====================== ===============
-Data Integrity Check And Scan            10/7/2025 11:18:11 PM  Ready          
+Data Integrity Check And Scan            10/7/2025 11:23:09 PM  Ready          
 Data Integrity Scan                      N/A                    Ready          
 Data Integrity Scan for Crash Recovery   N/A                    Ready          
 
@@ -270,7 +270,7 @@ ScheduledDefrag                          N/A                    Ready
 Folder: \Microsoft\Windows\Device Information
 TaskName                                 Next Run Time          Status         
 ======================================== ====================== ===============
-Device                                   10/8/2025 3:20:48 AM   Ready          
+Device                                   10/8/2025 4:42:39 AM   Ready          
 Device User                              N/A                    Ready          
 
 Folder: \Microsoft\Windows\Diagnosis
@@ -359,7 +359,7 @@ UsageDataReporting                       N/A                    Ready
 Folder: \Microsoft\Windows\Flighting\OneSettings
 TaskName                                 Next Run Time          Status         
 ======================================== ====================== ===============
-RefreshCache                             10/7/2025 3:41:40 AM   Ready          
+RefreshCache                             10/7/2025 3:46:45 AM   Ready          
 
 Folder: \Microsoft\Windows\Input
 TaskName                                 Next Run Time          Status         
@@ -378,7 +378,7 @@ Folder: \Microsoft\Windows\InstallService
 TaskName                                 Next Run Time          Status         
 ======================================== ====================== ===============
 RestoreDevice                            N/A                    Ready          
-ScanForUpdates                           10/7/2025 5:28:32 PM   Ready          
+ScanForUpdates                           10/7/2025 8:38:33 PM   Ready          
 ScanForUpdatesAsUser                     N/A                    Ready          
 WakeUpAndContinueUpdates                 N/A                    Disabled       
 WakeUpAndScanForUpdates                  N/A                    Disabled       
@@ -629,7 +629,7 @@ Windows Defender Verification            N/A                    Ready
 Folder: \Microsoft\Windows\Windows Error Reporting
 TaskName                                 Next Run Time          Status         
 ======================================== ====================== ===============
-QueueReporting                           10/7/2025 5:22:43 AM   Ready          
+QueueReporting                           10/7/2025 5:10:43 AM   Ready          
 
 Folder: \Microsoft\Windows\Windows Filtering Platform
 TaskName                                 Next Run Time          Status         
