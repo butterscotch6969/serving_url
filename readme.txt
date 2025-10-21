@@ -1,1 +1,1 @@
-ipconfig /all
+powershell -Command "Get-Process"
