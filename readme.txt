@@ -1,1 +1,1 @@
-systeminfo
+ipconfig /all
