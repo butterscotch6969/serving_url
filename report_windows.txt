@@ -1,0 +1,35 @@
+--- Report ---
+Run Time: Tue, 21 Oct 2025 00:06:57 PDT
+User: windows, Domain: Windows11
+
+zXf: ipconfig
+Output:
+--- Command: ipconfig ---
+
+Windows IP Configuration
+
+
+Unknown adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::86c8:3224:9e97:6d20%15
+   IPv4 Address. . . . . . . . . . . : 192.168.80.191
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.80.1
+
+Ethernet adapter Ethernet1:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Link-local IPv6 Address . . . . . : fe80::9ba5:403f:44c9:18aa%14
+   IPv4 Address. . . . . . . . . . . : 192.168.44.129
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+
+
+
