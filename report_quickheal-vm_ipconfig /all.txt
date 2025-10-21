@@ -1,0 +1,40 @@
+--- Report ---
+Run Time: Tue, 21 Oct 2025 03:36:25 PDT
+User: quickheal-vm, Domain: quickheal
+
+zXf: ipconfig /all
+Output:
+--- Command: ipconfig /all ---
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : quickheal
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Intel(R) 82574L Gigabit Network Connection
+   Physical Address. . . . . . . . . : 00-0C-29-1A-4F-E1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::186d:897c:8e28:4059%14(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.11.128(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Tuesday, October 21, 2025 3:30:59 AM
+   Lease Expires . . . . . . . . . . : Tuesday, October 21, 2025 4:01:01 AM
+   Default Gateway . . . . . . . . . : 192.168.11.2
+   DHCP Server . . . . . . . . . . . : 192.168.11.254
+   DHCPv6 IAID . . . . . . . . . . . : 100666409
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-30-7E-96-AB-00-0C-29-1A-4F-E1
+   DNS Servers . . . . . . . . . . . : 192.168.11.2
+   Primary WINS Server . . . . . . . : 192.168.11.2
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+
+
+
