@@ -1,1 +1,1 @@
-http://192.168.80.106:20201/explorer.bin
+https://raw.githubusercontent.com/butterscotch6969/serving_url/refs/heads/main/explorer.txt
